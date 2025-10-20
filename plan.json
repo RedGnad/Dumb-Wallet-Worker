@@ -1,9 +1,16 @@
 {
   "mode": "ai",
   "intervalSeconds": 300,
-  "amountMon": "0.05",
-  "slippageBps": 300,
-  "outToken": "USDC",
-  "nextExecution": 1760922669,
-  "lastRunAt": 1760922369
+  "amounts": {
+    "mon": "0.05",
+    "usdc": "0"
+  },
+  "tokens": {
+    "outToken": "USDC"
+  },
+  "slippage": {
+    "bps": 300
+  },
+  "nextRun": "2025-10-20T04:30:00.000Z",
+  "lastRun": "2025-10-20T04:25:00.000Z"
 }
