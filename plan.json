@@ -1,5 +1,5 @@
 {
-  "mode": "ai",
+  "mode": "off",
   "intervalSeconds": 300,
   "amounts": {
     "mon": "0.05",
@@ -11,6 +11,6 @@
   "slippage": {
     "bps": 300
   },
-  "nextRun": "2025-10-23T19:31:00.704Z",
+  "nextRun": "2025-10-23T19:39:14.922Z",
   "lastRun": "2025-10-20T04:25:00.000Z"
 }
