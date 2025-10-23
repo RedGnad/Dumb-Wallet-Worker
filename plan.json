@@ -11,7 +11,7 @@
   "slippage": {
     "bps": 300
   },
-  "nextRun": "2025-10-23T21:55:04.457Z",
+  "nextRun": "2025-10-23T21:59:14.505Z",
   "lastRun": "2025-10-23T21:15:43.670Z",
-  "enabled": false
+  "enabled": true
 }
